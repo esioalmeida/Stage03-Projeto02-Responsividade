@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaraMarques.github.io/Stage03-Projeto02-Responsividade)
+- [Visite o projeto online](https://esio1998.github.io/Responsividade/)
 
 <br/>
 
