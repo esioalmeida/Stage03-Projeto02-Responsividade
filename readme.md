@@ -1,4 +1,5 @@
-<h1 align="center"> projeto 4 <br/>Responsividade</h1>
+<h1 align="center"> 
+Stage03-Projeto02 <br/>Responsividade</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
