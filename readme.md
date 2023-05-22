@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://esio1998.github.io/Responsividade/)
+- [Visite o projeto online](https://esioalmeida.github.io/Stage03-Projeto02-Responsividade/)
 
 <br/>
 
